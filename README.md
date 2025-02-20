@@ -1,5 +1,7 @@
-# Stakeholder-Insights-and-Performance-Dashboard-
+# Stakeholder-Insights-and-Performance-Dashboard
 The dashboard provides a comprehensive view of key business metrics and data insights related to stakeholders, insurers, and policy performance. It enables stakeholders to analyse premium trends, profitability, and asset distribution to make data-driven decisions.
+
+[tableaupublicLInk](https://public.tableau.com/views/StakeholderInsightsandPerformanceDashboard_17400222763130/StakeholderInsightsandPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Screenshot](https://github.com/vinayjraut/Stakeholder-Insights-and-Performance-Dashboard-/blob/03f69dc0c306e3078aa7ae5657271e5eb0bfa25c/Screenshot_1.png)
 
