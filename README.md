@@ -1,6 +1,8 @@
 # Stakeholder-Insights-and-Performance-Dashboard-
 The dashboard provides a comprehensive view of key business metrics and data insights related to stakeholders, insurers, and policy performance. It enables stakeholders to analyse premium trends, profitability, and asset distribution to make data-driven decisions.
+
 ![Screenshot](https://github.com/vinayjraut/Stakeholder-Insights-and-Performance-Dashboard-/blob/03f69dc0c306e3078aa7ae5657271e5eb0bfa25c/Screenshot_1.png)
+
 # Requirements:
 ## 1. Charts and Visualizations:
 •	Compare the total value created by different insurers: Displays the total value created for a comparative analysis among insurers.
